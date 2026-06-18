@@ -1,0 +1,6 @@
+target/
+.settings/
+*.log
+*.tmp
+*.class
+*.jar

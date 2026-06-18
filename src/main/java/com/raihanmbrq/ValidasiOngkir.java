@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class ValidasiOngkir {
     public static void main(String[] args) {
         double totalBelanja = 350000.0;

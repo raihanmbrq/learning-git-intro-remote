@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class ValidasiAsersi {
     public static void validasiTeks(String actual, String expected) {
         try {

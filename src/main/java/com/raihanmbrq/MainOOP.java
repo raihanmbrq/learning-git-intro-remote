@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 // 1. PARENT CLASS: Berisi fungsi global browser yang bisa dipakai bersama
 class BasePage {
     String browserUrl = "https://app.com";

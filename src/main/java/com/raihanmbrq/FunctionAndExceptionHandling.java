@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class FunctionAndExceptionHandling {
 
     // 1. Membuat Method Reusable untuk simulasi klik tombol

@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class Latihan1 {
     public static void main(String[] args) {
         // 1. Menyimpan data produk (Tipe Data String)

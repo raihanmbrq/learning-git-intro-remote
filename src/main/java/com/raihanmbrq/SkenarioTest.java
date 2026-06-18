@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 class BaseReport {
     public void cetakHeader() {
         System.out.println("--- START AUTOMATION TEST REPORT ---");

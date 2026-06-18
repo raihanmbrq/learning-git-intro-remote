@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class RegistrasiBank {
     public static void main(String[] args) {
         // 1. Deklarasikan variabel untuk Nama Lengkap (John Doe)

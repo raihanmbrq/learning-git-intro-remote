@@ -1,3 +1,5 @@
+package com.raihanmbrq;
+
 public class CekHalaman {
     public static void main(String[] args) {
         int maksimumCek = 6;
