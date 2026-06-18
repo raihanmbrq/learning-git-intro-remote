@@ -72,5 +72,6 @@
     "c:\\Users\\User_Sprout\\Downloads\\selenium-java-4.44.0\\opentelemetry-sdk-logs-1.62.0-sources.jar",
     "c:\\Users\\User_Sprout\\Downloads\\selenium-java-4.44.0\\opentelemetry-sdk-metrics-1.62.0.jar",
     "c:\\Users\\User_Sprout\\Downloads\\selenium-java-4.44.0\\opentelemetry-sdk-metrics-1.62.0-sources.jar"
-  ]
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
 }
